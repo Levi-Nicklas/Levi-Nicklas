@@ -4,15 +4,13 @@ Welcome to my profile!
 
 ![](https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif)
 
-I'm a data scientist (currently working in Software Engineering), but I'm also a new father, husband, brother, NBA fan :basketball:, home chef :spaghetti:, and a movie lover :clapper:. 
-
-This is where I get to collaborate with friends and peers, display cool things I made, and practice my skills. I primarily write R code in my spare time at the moment, and Java/Python at work, but I'm learning a lot of other technologies to be a better all around technologist. I come have a varied back ground, with internships in different industries like manufacturing, security, IoT devices, and Defense. Academically, I completed my B.S. in Applied Mathematics in 2019, and finished my M.S. in Computer Science (Concentration in Data Science) in 2021.
+I'm a data scientist with experience in manufacturing, defense, security, and consulting. My expertise is in data analyis, data visualization, data/text mining, statistical inference, and time series analysis. Outside of work I love to cook, enjoy sports and movies, and spend time with my family. 
 
 ------------------------------------------
 
 # I'm good at this :point_down:
 
-1) R Programming (`{tidyverse}` or `Base R`)
+1) R Programming (`{tidyverse}` or `Base R`) and Python :snake:
 
 2) Mathematical/Statistical Modeling
 
@@ -24,11 +22,6 @@ This is where I get to collaborate with friends and peers, display cool things I
 
 6) SQL, Apache Pig, etc.
 
-# Loading ... :hourglass_flowing_sand:
-
-7) Java
-
-8) Docker & Kubernetes
 
 
 
