@@ -2,7 +2,7 @@
 
 Welcome to my profile! 
 
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxteHkwbXk2cDVnMjgzbmVsYXk4dXN1cWcxaHBmdHB5bWxzeG9tOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY20xZGxueTk2aDBjOXk2cGhkajcycWs3dGl3Zzh6ZGxhZTByYW1yNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/brsEO1JayBVja/giphy.gif)
 
 # About
 I do a lot of stuff these days, so below in _Sections_ you can jump to what you might be here looking for. Thanks for checking in on me! 
