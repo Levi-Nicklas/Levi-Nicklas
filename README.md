@@ -13,17 +13,20 @@ I'm also a dad, a friend, home chef/cook, amateur judoka, cartoonist/artist, leg
 
 
 ### Sections
-If you are here for any classes I teach or academic work, go here:
+**If you are here for any classes I teach or academic work, go here**:
+- Classes: TBD ⏲️
+- [Pub. - "A Framework for Intelligent Navigation Using Latent Dirichlet Allocation on Reddit Posts About Opiates":](https://dl.acm.org/doi/abs/10.1145/3388142.3388156) Used topic modeling to demo how this could be useful within the context of social media. 
+- [Pub - "Dimensionality Reduction and Text Mining for Smart Content Filtering of an Online Health Forum":](https://ieomsociety.org/program-monterrey2021.pdf) Used geometric data analysis to demo how this could be useful within the context of social media.
+- [M.S. Thesis:](https://github.com/Levi-Nicklas/GraphDocNLP) I used some graph kernels as a preprocessing method for text clustering on two different types of documents in this analysis.
+
+**If you are here to check out my technical work/code, go here**:
+- [Text Mining the Federalist Papers:](https://github.com/Levi-Nicklas/FederalistPapers/tree/main) I love the musical Hamilton! Here is a little text mining thing I did on the Federalist papers to see how much of the work Hamilton did (and if he was exagerating some or not? 🤔)
+
+**If you are here to see some non-technical/communication work, go here**:
 - ⚠️ Under Construction ⚠️
 
-If you are here to check out my technical work/code, go here:
-- ⚠️ Under Construction ⚠️
-
-If you are here to see some non-technical/communication work, go here:
-- ⚠️ Under Construction ⚠️
-
-If you are here becasue you want to just figure out who I am, go here:
-- ⚠️ Under Construction ⚠️
+**If you are here becasue you want to just figure out who I am, go here**:
+- [LinkedIn:](https://www.linkedin.com/in/levinicklas/) For the business people! 💼
 
 
 
